@@ -2,5 +2,6 @@
 pulumi = 'latest'
 node = '22'
 gh = 'latest'
+uv = 'latest'
 
 "go:github.com/pulumi/esc/cmd/esc" = 'latest'
