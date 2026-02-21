@@ -1,5 +1,8 @@
 [tools]
 pulumi = 'latest'
 node = '22'
+gh = 'latest'
+go = 'latest'
+python = 'latest'
 
 "go:github.com/pulumi/esc/cmd/esc" = 'latest'
